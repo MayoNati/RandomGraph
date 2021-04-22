@@ -1,0 +1,6 @@
+P connectivity,0.001,0.002,0.003,0.005,0.006,0.022,0.039,0.055,0.072,0.089, 
+Probability that the feature exists,0,0,0,0,0.046,1,1,1,1,1, 
+P diameter,0.02,0.04,0.06,0.08,0.10,0.11,0.13,0.14,0.16,0.17, 
+Probability that the feature exists,0,0,0,0.158,0.948,0.996,1,1,1,1, 
+P isolated,0.001,0.002,0.003,0.005,0.006,0.022,0.039,0.055,0.072,0.089, 
+Probability that the feature exists,0,0,0,0,0.044,1,1,1,1,1, 
